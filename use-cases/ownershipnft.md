@@ -1,0 +1,3 @@
+# OwnershipNFT
+
+OwnershipNFTは、ロック期間を終了した際にOwnershipNFTをBurnすることでロックしたNFTをOwnershipNFTの所有者にもとにTransferします。つまり、実質的にはOwnershipNFTは、ロックしたNFTの所有権を示すものであり、ロックしたNFTの価値を保存しているといえます。OriginalNFTをマーケットプレイスに出したり、外部の担保融資でOwnershipNFTを担保にトークンの借入を行うことができます。

@@ -1,0 +1,3 @@
+# YieldNFT
+
+YieldNFTは、ロック期間を終了した際にOwnershipNFTをBurnすることでロックしたNFTで得られたレンタル料をYieldNFTの所有者にもとにTransferします。YieldNFTを運用する場合、マーケットプレイスの買い手や外部の融資先は、ロックしたNFTのポテンシャルを評価して、購入や融資に至ります。
