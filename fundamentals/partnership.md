@@ -1,8 +1,8 @@
 # Partnership
 
-Currently, the NFTs available for rent in Rilascio are those listed in the table below; please keep in mind that some NFT collections may have limited utilities available.
+現状で、Rilascioでレンタル可能なNFTは、以下の表に示しているものです。NFTのコレクションによっては利用できるユーティリティが限られている場合もあるので、ご留意ください。
 
-We aim to libarate all dysfunctional NFT by increasing the number of collaborative partners in the future.
+今後パートナーを組んでいくことで機能不全を起こしてしまっている多くのNFTの解放を目指します。
 
 | No. | CollectionName | ContractAddress | URL（opensea） | Utility |
 | --- | -------------- | --------------- | ------------ | ------- |
