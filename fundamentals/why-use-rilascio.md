@@ -1,28 +1,22 @@
 # Why Use Rilascio
 
-NFTは、コミュニティへの参加の証明やゲームのアイテム、メタバース上でのアバターなど様々なユーティリティを含んでいます。加えて、NFTの一点物という特性から高い資産性を有しているものが多く、マーケットプレイスでは、高額で売買が行われています。これらの動きに加えて、NFTを担保にトークンの借入などの運用を行う、NFT-Fi(NFT x De-Fi)の台頭により資産としてのNFTの活用方法が多く展開され始めています。
+NFT contains a variety of utilities, including proof of community participation, game items, and avatars in the metaverse. In addition, the one-of-a-kind nature of NFTs makes many of them highly valuable assets, and they are bought and sold in the marketplace at high prices. In addition to these developments, the rise of NFT-Fi (NFT x De-Fi), in which NFTs are used as collateral for token borrowing and other operations, has begun to develop many ways to utilize NFT as assets.
 
+However, it is suggested that sometimes high asset quality may reduce the functionality of NFTs. For example,
 
+* A situation in which one person owns multiple NFTs of the same collection.
+* A situation in which you do not use NFT utilities but are psychologically reluctant to give up NFT that have become so popular and expensive.
+* A situation in which an expensive NFT is deposited as collateral and the NFT is dysfunctioning.
 
-しかし、時として高い資産性は、NFTの機能性を下げる可能性が示唆されます。例えば、
+and others, and these can make NFTs dysfunctional. Furthermore, the high asset value of the NFT is a major barrier to newcomers; many users who cannot become NFT holders may never know what the world is really like. We believe this is also a lost opportunity on the part of the community.
 
-* 同一コレクションのNFTを一人が複数保有している状態
-* NFTのユーティリティを利用しないが、人気になり高価になったNFTを心理的に手放したくない状態
-* 高価なNFTが担保に預け入れられることでNFTの機能が停止している状態
+Rilascio is an NFT rental platform that solves these issues. In a rental platform, the lender retains ownership but can gain another revenue opportunity by having the utility used by another user, and the borrower can easily experience and use the utility of NFT without the initial investment in skyrocketing NFT costs.
 
-などがあり、これらはNFTの機能不全を起こしてしまいます。さらに、高い資産性を有するNFTは、新規の参入者への大きな障壁となります。NFTのホルダーになれない多くのユーザーは、その世界の中身を知ることができないかもしれません。これはコミュニティ側の機会損失にもなると考えています。
+Among the rental platforms, Rilascio shows features that make it a valuable NFT rental platform.
 
+*   **Make NFTs available for rent on an unsecured basis**
 
-
-Rilascioは、これらの課題を解決するNFTレンタルプラットフォームです。レンタルプラットフォームにおいて、貸し手は、所有権は保持しながらユーティリティを別ユーザーに利用してもらうことで別の収益機会を得ることができ、借り手は、高騰するNFTに初期投資をせず、NFTのユーティリティを気軽に体験・利用することができます。
-
-
-
-レンタルプラットフォームの中でもRilascioが、価値のあるNFTのレンタルプラットフォームである特長を示します。
-
-*   **無担保にNFTをレンタル可能とする**
-
-    多くのNFTレンタルサービスでは債務不履行が起こった際の保険として担保を必要とします。しかし、Rilascioでは、オリジナルのNFTの代わりに、ロックされたNFTをwrapしたWrappedNFTが借り手に渡るため、債務不履行が起こることはありません。これは貸し手に対するNFTの持ち逃げリスクを最小化にするものです。
+    Many NFT rental services require collateral as insurance in the event of default. With Rilascio, however, default never occurs because instead of the original NFT, the borrower receives a WrappedNFT, which is a wrapped version of the locked NFT. This minimizes the risk of NFT run-off to the lender.
 
 {% content-ref url="../use-cases/wrappednft.md" %}
 [wrappednft.md](../use-cases/wrappednft.md)
@@ -30,22 +24,21 @@ Rilascioは、これらの課題を解決するNFTレンタルプラットフォ
 
 ****
 
-*   **借り手は、少ない資本でユーティリティを利用できる**
+*   **Borrowers have access to utilities with little capital**
 
-    WrappedNFTは、Rilascioとパートナーシップを提携したNFTであれば、独自のユーティリティを保持しています。それらは、そのユーティリティを利用してゲームを行ったりコミュニティに参加することができ、少ない元手でも始めることができます。
-
-
-
-*   **借り手は、返却コストをかける必要がない**
-
-    WrappedNFTは、貸付期間が終了すると自動でプロトコルに返却されるため、借り手にかかる返却トランザクションのコストをゼロにします。
+    WrappedNFT holds its own utilities for any NFT that has partnered with Rilascio in a partnership. They can use that utility to play games and participate in the community, and can get started with little capital.
 
 
 
-*   **貸し手は、NFTのロック期間でもオリジナルのNFTの実質的な所有権を外部サービスで運用できる**
+*   **Borrowers do not have to pay return costs**
 
-    貸し手がNFTをコントラクトに預け入れる際に、OwnershipNFTが発行されます。OwnershipNFTの所有者は、ロック期間が終了したあとに当該NFTをburnすることで、オリジナルのNFTを受け取ることができます。\
-    つまり、このOwnershipNFTはオリジナルのNFTの所有を示すものであるため、外部サービスでの運用を可能にします。これは、NFTの使用価値と交換価値を実質的に分離することを意味します。
+    WrappedNFT automatically returns the loan to the protocol at the end of the loan period, reducing the cost of the return transaction to zero for the borrower.
+
+
+
+*   **Lenders can operate outside services with substantial ownership of the original NFT**
+
+    When a lender deposits an NFT into the contract, an OwnershipNFT is issued; the owner of the OwnershipNFT can receive the original NFT by burning the NFT after the lock period has expired. In other words, this OwnershipNFT indicates ownership of the original NFT, allowing it to be operated by an external service. This effectively separates Use Value and Exchange Value.
 
 {% content-ref url="../use-cases/ownershipnft.md" %}
 [ownershipnft.md](../use-cases/ownershipnft.md)
@@ -53,10 +46,9 @@ Rilascioは、これらの課題を解決するNFTレンタルプラットフォ
 
 ****
 
-*   **貸し手は、NFTのロック期間でもオリジナルのNFTの実質的な将来価値を外部サービスで運用できる**
+*   **Lenders can operate the real future value of the original NFT with outside services**
 
-    これは、Rilascioの最大の特徴です。先述した通り、貸し手がコントラクトにNFTをロックした際、OwnershipNFTが発行されます。それに加えて、YieldNFTというもう一種類のNFTが発行されます。YieldNFTは、レンタルの収益を回収するためのNFTです。OwnershipNFTは、NFTの現在の価値を示すのに対して、YieldNFTは、ロックされたNFTの将来価値を示しています。というのも、ロック期間中に得られる収益が増えていくことは、ロック期間に継続的に多くの人がそのNFTを求めてることを示しているからです。\
-    私たちのプロトコルで、ロック期間を設けているのはこのような価値の分離を実現することを目的としています。ロック期間を設けることで、当該NFTの将来価値算定が可能になり、外部プロトコルとのコンポーザビリティを高めます。
+    This is the most important feature of Rilascio. As mentioned earlier, an OwnershipNFT is issued when the lender locks an NFT into the contract. In addition, another type of NFT is issued, the YieldNFT, which is used to earn back the rental proceeds; the OwnershipNFT represents the current value of the NFT, whereas the YieldNFT represents the future value of the NFT that was locked. This is because the increase in revenue earned during the lock period indicates that more people are continuously looking for that NFT during the lock period. The purpose of having a lock period in our protocol is to achieve this separation of value. The lock period makes it possible to calculate the future value of the NFT in question and enhances composability with external protocols.
 
 {% content-ref url="../use-cases/yieldnft.md" %}
 [yieldnft.md](../use-cases/yieldnft.md)
