@@ -1,5 +1,5 @@
 # Borrower
 
-Borrowerは、レンタル市場に出せれたNFTの使用価値（WrappedNFT）の受益者です。
+Borrower is the beneficiary of Use Value of the NFT (WrappedNFTs) that are put on the rental market.
 
-高価すぎて購入できない、市場に流通していない、コミュニティやサービスを体験したいなどといったNFTの一時的な利用を、Rilascioが発行するWrappedNFTにより実現可能です。WrappedNFTは、NFTの使用価値のみを抽出し、各コミュニティやサービスの体験を可能にします。Borrowerは、期間やNFTに設定された価格に応じてトークンをロックすることで、WrappedNFTのユーティリティを利用することができます。
+When the NFT is too expensive to purchase or not available on the market, or when you just want to experience the service, WrappedNFT allow the Borrower to take advantage of the utility of WrappedNFT by payment in the tokens for settting period of time. Borrower can take advantage of the utility of WrappedNFT by locking in their tokens according to the duration and price set for the NFT.
