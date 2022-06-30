@@ -1,33 +1,33 @@
 # WrappedNFT
 
-The use cases for WrappedNFTs issued by renting NFTs in Rilascio include the following At this time, the only WrappedNFTs that retain the original NFT's proprietary utilities are those NFTs with which we have partnered a partnership. Please note that not all utilities are retained.
+RilascioでNFTをレンタルすることで発行されるWrappedNFTのユースケースは以下のようなものがあります。現時点では、オリジナルのNFTの独自ユーティリティを保持しているWrappedNFTは、パートナーシップを提携しているNFTのみになります。全てのユーティリティを保持しているわけではないことにご留意ください。
 
 
 
 *   PFP
 
-    Each social media platform has a growing range of profile images corresponding to NFTs; Twitter can be described as a public community. Many NFT collections are on Twitter to publicly share their NFTs and communicate with other holders. The community will accept you as a member and will have a chance to get to know you.
+    各ソーシャルメディアは、NFTに対応したプロフィール画像が広がりをみせています。Twitterは、公開されたコミュニティといえます。多くのNFTコレクションはTwitter上で、自分の持っているNFTを公開したり、ホルダー同士のコミュニケーションが盛んに行われます。Relacioは、様々なソーシャルメディアに対応したPFPを発行することができ、コミュニティの一員になることができます。コミュニティはあなたをメンバーとして受け入れ、あなたを知るきっかけになるはずです。
 
 
 
-*   Community Membership
+*   コミュニティ会員権
 
-    NFT holders enjoys special privileges within the community and to participate in exclusive events among community members. Rilascio allows community members who cannot afford the original NFT to participate in the community and gives them the opportunity to get a feel for the community and experience being part of it.
+    NFTのホルダーはコミュニティ内で特別な権限を手にしたり、コミュニティメンバーの中でもホルダー限定のイベントに参加することができます。Rilascioでは、コミュニティメンバーだがオリジナルのNFTは高額で買えないユーザーに対して、コミュニティに参加を可能にし、そのコミュニティの雰囲気を知る機会やコミュニティの当事者になる体験を与えることができます。
 
 
 
-*   Right of access
+*   アクセス権
 
-    NFT will grant the holder limited access to the site and content; Rilascio will grant temporary access to the content through rental, increasing the accessibility of the content.
+    NFTは、ホルダーが限定でアクセスできるサイトやコンテンツへのアクセス権を与えるものになります。Rilascioは、レンタルにより一時的なコンテンツへのアクセス権を与え、コンテンツのアクセシビリティを高めます。
 
 
 
 *   NFT-Game
 
-    Blockchain games issue various assets such as items and avatars in NFTs. The Play to Earn model of blockchain gaming has developed into a movement that has made gaming a profession, and is being used by many. Rilascio allows you to rent NFTs of utility assets from any game with which we have a partnership.
+    ブロックチェーンゲームではアイテムやアバターなど様々なアセットをNFTで発行しています。ブロックチェーンゲームのPlay to Earnのモデルはゲームを職とするような動きまで発展し、多くの人に利用されいます。自分の利用しきれていないゲーム内のアセットなどをレンタルすることで資産効率を最大化させることができます。Rilascioは、パートナーシップを提携しているゲームであれば、ユーティリティを保持したアセットのNFTをレンタルすることができます。
 
 
 
-*   Worlds in the Metaverse
+*   メタバース上のワールド
 
-    Ownership of worlds and some spaces on the metaverse are issued by the NFT and bought and sold in the marketplace, allowing Rilascio to temporarily rent metaverse space for exhibition and play.
+    メタバース上のワールドや一部のスペースの所有権がNFTで発行され、マーケットプレイスで売買が行われています。Rilascioは、メタバース空間を一時的に借りることで展示や遊びの幅を広げることができます。
