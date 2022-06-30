@@ -1,24 +1,24 @@
 # How to Use Rilascio
 
-Rilascio has two roles, lender and borrower, and we will explain how to use the system for each user. First, we will explain how to connect the wallet, which is a necessary operation for both lenders and borrowers.
+Rilascioには貸し手と借り手の二つのロールがあり、それぞれのユーザーに対しての利用方法を説明していきます。まずは、貸し手にも借り手にも必要な操作としてウォレットの接続が必要になるので、その操作方法を説明します。
 
-１.Open the Rilascio product page
+１.Rilascioのプロダクトページを開きます
 
 ![](<../../.gitbook/assets/スクリーンショット 2022-06-29 15.55.43.png>)
 
-２.To make a transaction on Rilascio, click on the Connect Wallet tab in the upper right corner
+２.Rilascio上で取引を行うためにはまず、右上のConnect Walletタブをクリックします
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-01.png)
 
-３.Select the wallet you are using
+３.あなたが利用しているウォレットを選択します
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-02.png)
 
-４.If you see your wallet address in the upper right corner, you are done!
+４.右上にあなたのウォレットアドレスが表示されていれば完了です
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-11.png)
 
-Please refer to the following pages for each role.
+各ロールは、以下のページをご参照ください。
 
 {% content-ref url="how-to-use-rilascio-lender.md" %}
 [how-to-use-rilascio-lender.md](how-to-use-rilascio-lender.md)
