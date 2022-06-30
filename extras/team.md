@@ -2,10 +2,13 @@
 
 #### **Hideyuki Akagawa**
 
+![](../.gitbook/assets/hide.webp)
+
 #### **Kazuma izumi**
+
+![](../.gitbook/assets/kazu.webp)
 
 #### Tomoki yamaguchi
 
-#### kai Nakao
+![](../.gitbook/assets/tom.webp)
 
-#### Yuya Hara
