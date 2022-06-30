@@ -1,6 +1,6 @@
 # Definition
 
-Here are the definitions given by the terms in the service.
+ここではサービス内の用語が示す定義を示します。
 
 {% content-ref url="lender.md" %}
 [lender.md](lender.md)

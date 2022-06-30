@@ -1,7 +1,7 @@
 # Lender
 
-Lenderは、RilascioにおけるNFTの流動性提供者といえます。
+Lender can be considered Liquidity Providers for NFT in Rilascio.
 
-Lenderは、様々な理由で機能不全を起こしてしまっているNFTをRilascioに預けることで、使用価値の提供者になることができます。
+Lender can become use-value providers by depositing NFTs that are malfunctioning for various reasons with Rilascio.
 
-使用価値を提供する際に交換価値を示すNFT（OwnershipNFT,YieldNFT）を別サービスで運用することができます。もちろん無理に外部に運用する必要はなく、ロック期間が終了するまで保有し続ける方針も全く問題はありません。運用方法はLender次第です。
+Lender can be considered Liquidity Providers for NFT in Rilascio. Lenders can become use-value providers by depositing NFT that are dysfunctioning for various reasons with Rilascio. NFT (OwnershipNFT, YieldNFT), which indicate Exchange Value when providing Use Value, can be operated in a separate service. Of course, there is no need to operate it externally by force, and there is absolutely no problem with the policy to continue holding it until the lock period expires. The method of operation is up to the Lender.
