@@ -1,14 +1,14 @@
 # Team
 
-#### **Hideyuki Akagawa**
+#### **Hideyuki Akagawa（**[@hideyukiaka](https://twitter.com/hideyukiaka)**）**
 
 ![](../.gitbook/assets/hide.webp)
 
-#### **Kazuma izumi**
+#### **Kazuma Izumi（**[@kazuma7o7](https://twitter.com/kazuma7o7)**）**
 
 ![](../.gitbook/assets/kazu.webp)
 
-#### Tomoki yamaguchi
+#### Tomoki yamaguchi（[@tomyama0214](https://twitter.com/tomyama0214)）
 
 ![](../.gitbook/assets/tom.webp)
 
