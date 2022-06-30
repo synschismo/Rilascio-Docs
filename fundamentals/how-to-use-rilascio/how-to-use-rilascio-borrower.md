@@ -1,24 +1,24 @@
 # How to Use Rilascio(Borrower)
 
-１.まず、自分の借りたいNFTを見つけましょう。
+１.First, find the NFT you want to rent.
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-03.png)
 
-２.Rental Durationにレンタルする期間を設定します。レンタル期間に応じて料金は更新します。
+２.Set the length of time you want to rent to "Rental Duration". The rental fee will be updated according to the rental period.
 
-`（レンタル料金）＝（借りたいレンタル日数）×（1日あたりのレンタル価格）+（手数料）`
+`（The Rental Fee）＝（The length of time you want to borrow）×（Rental price per day）+（Commission for Rilascio）`
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-04.png)
 
-３.Rental Startをクリックし、Total Feeに表示されているレンタル料金を預け入れるとWrappedNFTが発行されます。
+３.Click on "Rental Start" and deposit the rental fee shown under "Total Fee" to receive your WrappedNFT.
 
-> WrappedNFT：預け入れられたNFTをwrapして発行されたNFT\
-> &#x20;[Wrappedに関する詳細ページ](https://www.notion.so/GitBookDocument-9c75d920a3be4379aae86aa37af2347a)
+> WrappedNFT：NFT issued by wrapping of deposited NFT\
+> &#x20;Detail of [Wrapped](https://www.notion.so/GitBookDocument-9c75d920a3be4379aae86aa37af2347a)
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-05.png)
 
-４.レンタルが実行されると、ダッシュボードにレンタルしたNFTを確認することができます。
+４.Once the rental is completed, the rented NFT can be viewed on the dashboard.
 
 ![](../../.gitbook/assets/howToUseRilascio\_step-06.png)
 
-５.WrappedNFTはレンタル期間が終了すると自動的にプロトコルへ返却されます。
+５.WrappedNFT is automatically returned to the protocol at the end of the rental period.
