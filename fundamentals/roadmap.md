@@ -1,31 +1,31 @@
 # Roadmap
 
-Rilascioは、2022年6月にテストネット（Rinkedby）にてβ版をローンチします。メインネットは、2022年8月にリリースを予定しています。ゲームやメタバース、コミュニティとパートナーシップの提携を進めていくことユーティリティを拡大させていきます。それと並行して発行するNFTをネイティブでレンタルに対応した規格やレンタル時の独自ユーティリティの継承を容易にするSDKやAPIの開発を進めます。
+Rilascio will launch in beta on the test net (Rinkedby) in June 2022. The main net is scheduled for release in August 2022. We will continue to expand the utility by developing partnership alliances with games, metaverses and communities. In addition, we will develop SDKs and APIs that will facilitate the inheritance of proprietary utilities when renting and standards that natively support the rental of NFT to be issued in parallel.
 
-さらにAuditを行うことで、レンタルプロトコルへの安全性をより強固にしていきます。レンタルプロトコルをより普及させるために、様々な統合用拡張サービスを構築していきます。
+Furthermore, we will make the rental protocol more secure by doing an Audit. In order to make the rental protocol more popular, we will build an extended service for various integrations.
 
 **2022 Q2**
 
-**-テストネット版にローンチ（ERC721のみ）**
+**-**Launch to test net version (ERC721 only)
 
-**-パートナーシップ**
+**-**partnership
 
 ****
 
 **2022 Q3**
 
-**-メインネット公開**
+**-**Open to the public on the main net
 
-**-レンタル向けNFT規格の開発**
+**-**Development of NFT standards for rental
 
-**-API/SDKの公開**
+**-**Release of API/SDK
 
-**-Audit実施**
+**-**Audit
 
 ****
 
 **2022 Q4**
 
-**-プロトコルインテグレーション**
+**-**Integrate Protocol
 
 ****

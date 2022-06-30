@@ -1,16 +1,16 @@
 # WrappedNFT
 
-WrappedNFTは、NFTをレンタルした際に、借り手側に発行されます。WrappedNFTは、マーケットに出すことで発生しうる問題を回避するため譲渡不可能です。
+WrappedNFTs are issued to the borrower when the NFT is rented; WrappedNFTs are non-transferable to avoid problems that could arise from placing them on the market.
 
-ロックしたNFTの独自のユーティリティ（NFTのオーナーだけがアクセス可能なサービスやNFTのキャラクター・着せ替えアセットなど）を使用することができます（レンタルできるNFTコレクションの種類やユーティリティの範囲は[Partnership](../partnership.md)ページよりご参照ください）。
+WrappedNFT allows you to use the unique utilities. of the NFT you have locked.Please refer to the [Partnership](../partnership.md) page for the types of NFT collections available for rent and the range of utilities available.
 
-Rilascioでレンタルが可能なNFTは以下のページをご参照ください。
+Please refer to the following page for NFTs available for rent in Rilascio.
 
 {% content-ref url="../partnership.md" %}
 [partnership.md](../partnership.md)
 {% endcontent-ref %}
 
-具体的なWrappedNFTのユースケースについては以下のページをご参照ください
+Please refer to the following pages for specific WrappedNFT use cases,
 
 {% content-ref url="../../use-cases/wrappednft.md" %}
 [wrappednft.md](../../use-cases/wrappednft.md)
