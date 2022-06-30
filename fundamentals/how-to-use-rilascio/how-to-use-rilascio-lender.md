@@ -16,7 +16,7 @@
 
 > Lock Duration：レンタルが開始されてからNFTがロックされる期間
 
-![](../../.gitbook/assets/howToUseRilascio\_step-09.png)
+![](../../.gitbook/assets/howToUseRilascio\(lender\).png)
 
 ４.全ての設定を終えたらLock your NFTをクリックすると、OwnershipNFTとYieldNFTがミントされます。レンタル成立後、Lock Durationで設定した期間、NFTを引き出せなくなります。
 
@@ -27,7 +27,7 @@
 > YieldNFT：レンタルにより得られた収益の引き換えに必要なNFT\
 > &#x20;[YieldNFTに関する詳細ページ](https://www.notion.so/GitBookDocument-9c75d920a3be4379aae86aa37af2347a)
 
-![](<../../.gitbook/assets/howToUseRilascio\_step-10 (1).png>)
+{% file src="../../.gitbook/assets/スクリーンショット 2022-06-30 18.18.05.png" %}
 
 5.レンタルが実行されると、ダッシュボードにロックしたNFTを確認することができます。最初のレンタルが成立するまでは、ダッシュボード内の"Cancel"をクリックすることでOwnershipNFTとYieldNFTをプロトコルに返却し、ロックしたNFTを回収することができます。
 
