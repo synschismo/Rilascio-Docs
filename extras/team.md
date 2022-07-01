@@ -8,7 +8,7 @@
 
 ![](../.gitbook/assets/kazu.webp)
 
-#### Tomoki yamaguchi（[@tomyama0214](https://twitter.com/tomyama0214)）
+#### Tomoki Yamaguchi（[@tomyama0214](https://twitter.com/tomyama0214)）
 
 ![](../.gitbook/assets/tom.webp)
 
