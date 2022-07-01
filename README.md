@@ -8,6 +8,8 @@ Rilascio is an unsecured NFT rental protocol and platform that enables  to opera
 
 Currently supported by Rinkby , and we are looking to expand into use cases of rental NFT such as PFP, community memberships, access to services, and game items.
 
+![](.gitbook/assets/RIlascio\_scheme.png)
+
 ### NFT Issue and Rilascio's Solution
 
 NFTs are beginning to be used not only to prove ownership of assets, but also in a variety of other situations, such as membership in certain communities, in-game assets, and as profile pictures (PFP: picture for proof). On the other hand, the greater the excitement for the community and the game, the higher the price of the NFT and the more valuable it becomes as an asset. The higher the value of the asset, the more the holder increases the endowment effect and the slower the distribution speed.
