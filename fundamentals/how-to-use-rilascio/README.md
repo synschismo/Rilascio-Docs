@@ -4,19 +4,19 @@ Rilascio has two roles, lender and borrower, and we will explain how to use the 
 
 １.Open the Rilascio product page
 
-![](<../../.gitbook/assets/スクリーンショット 2022-06-29 15.55.43.png>)
+![](<../../.gitbook/assets/howToUseRilascio\_加筆修正\_アートボード 1.png>)
 
 ２.To make a transaction on Rilascio, click on the Connect Wallet tab in the upper right corner
 
-![](../../.gitbook/assets/howToUseRilascio\_step-01.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-02.png)
 
 ３.Select the wallet you are using
 
-![](../../.gitbook/assets/howToUseRilascio\_step-02.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-03.png)
 
 ４.If you see your wallet address in the upper right corner, you are done!
 
-![](../../.gitbook/assets/howToUseRilascio\_step-11.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-04.png)
 
 Please refer to the following pages for each role.
 
