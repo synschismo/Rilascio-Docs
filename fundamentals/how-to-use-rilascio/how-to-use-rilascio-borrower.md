@@ -2,7 +2,7 @@
 
 １.まず、自分の借りたいNFTを見つけましょう。
 
-![](../../.gitbook/assets/howToUseRilascio\_step-03.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-05.png)
 
 ２.Rental Durationにレンタルする期間を設定します。レンタル期間に応じて料金は更新します。
 
@@ -19,6 +19,6 @@
 
 ４.レンタルが実行されると、ダッシュボードにレンタルしたNFTを確認することができます。
 
-![](../../.gitbook/assets/howToUseRilascio\_step-06.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-06.png)
 
 ５.WrappedNFTはレンタル期間が終了すると自動的にプロトコルへ返却されます。

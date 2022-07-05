@@ -2,11 +2,11 @@
 
 １.サービスページから"Lend"を選択します。
 
-![](../../.gitbook/assets/howToUseRilascio\_step-07.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-07.png)
 
 ２.Lendページに遷移するとあなたが所有しているNFTの中で貸出可能あるいは貸出中のNFTが表示されます。貸出可能なNFTの右下には"Lend"と表示され、貸出中のNFTは、"Lended"と表示されます。貸出可能なNFTは、Rilascioとのパートナーを提携しているNFTに限っているのでご留意ください。
 
-![](../../.gitbook/assets/howToUseRilascio\_step-08.png)
+![](../../.gitbook/assets/howToUseRilascio\_step-08.png) ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-08.png)
 
 ３."Max Rental Duration"と"Daily Rental Price"と"Lock Duration"を設定します。
 
@@ -31,7 +31,7 @@
 
 5.レンタルが実行されると、ダッシュボードにロックしたNFTを確認することができます。最初のレンタルが成立するまでは、ダッシュボード内の"Cancel"をクリックすることでOwnershipNFTとYieldNFTをプロトコルに返却し、ロックしたNFTを回収することができます。
 
-![](../../.gitbook/assets/howToUseRilascio\_step-12.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-09.png)
 
 ６.ロック期間を終了すると、"Withdraw"をクリックすることで、OwnershipNFTを引き換えにロックされたNFTを取り戻すことができ、"Claim"をクリックすることで、yieldNFTを引き換えにレンタルで得られた収益を引き出すことができます。
 

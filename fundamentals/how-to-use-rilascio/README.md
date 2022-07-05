@@ -4,19 +4,19 @@ Rilascioには貸し手と借り手の二つのロールがあり、それぞれ
 
 １.Rilascioのプロダクトページを開きます
 
-![](<../../.gitbook/assets/スクリーンショット 2022-06-29 15.55.43.png>)
+![](<../../.gitbook/assets/howToUseRilascio\_加筆修正\_アートボード 1.png>)
 
 ２.Rilascio上で取引を行うためにはまず、右上のConnect Walletタブをクリックします
 
-![](../../.gitbook/assets/howToUseRilascio\_step-01.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-02.png)
 
 ３.あなたが利用しているウォレットを選択します
 
-![](../../.gitbook/assets/howToUseRilascio\_step-02.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-03.png)
 
 ４.右上にあなたのウォレットアドレスが表示されていれば完了です
 
-![](../../.gitbook/assets/howToUseRilascio\_step-11.png)
+![](../../.gitbook/assets/howToUseRilascio\_加筆修正-04.png)
 
 各ロールは、以下のページをご参照ください。
 
