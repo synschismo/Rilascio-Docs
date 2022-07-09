@@ -36,4 +36,4 @@
 
 * [Twitter](https://twitter.com/0xRilascio)
 * [Discord](https://discord.gg/9nmDtTe2TD)
-* [Github](https://github.com/synschismo/Rilascio)
+* [Github](https://github.com/synschismo/Rilascio-Docs)
