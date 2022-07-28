@@ -1,6 +1,6 @@
 # YieldNFT
 
-YieldNFT is issued to the lender when an NFT is locked.
+YieldNFT is minted to the lender when an NFT is locked.
 
 YieldNFT can be redeemed at the end of the lock period for the total amount of rental fee traded during the lock period. yieldNFT earned profit can be found in YieldNFT metadata.
 
