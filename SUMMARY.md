@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Introdution to Rilascio](README.md)
+* [Introdution to RentaFi](README.md)
 
 ## Product
 
-* [Rilascio-testnet](https://testnet.rilasc.io)
+* [RentaFi-testnet](https://testnet.rilasc.io)
 
 ## Fundamentals
 
