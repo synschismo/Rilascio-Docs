@@ -10,7 +10,7 @@
 
 * [Why Use RentaFi](fundamentals/why-use-rilascio.md)
 * [How to Use RentaFi](fundamentals/how-to-use-rentafi/README.md)
-  * [How to Use Rilascio(Lender)](fundamentals/how-to-use-rentafi/how-to-use-rilascio-lender.md)
+  * [How to Use RentaFi(Lender)](fundamentals/how-to-use-rentafi/how-to-use-rentafi-lender.md)
   * [How to Use Rilascio(Borrower)](fundamentals/how-to-use-rentafi/how-to-use-rilascio-borrower.md)
 * [Definition](fundamentals/definition/README.md)
   * [Lender](fundamentals/definition/lender.md)

@@ -20,8 +20,8 @@ RentaFiには貸し手と借り手の二つのロールがあり、それぞれ�
 
 各ロールは、以下のページをご参照ください。
 
-{% content-ref url="how-to-use-rilascio-lender.md" %}
-[how-to-use-rilascio-lender.md](how-to-use-rilascio-lender.md)
+{% content-ref url="how-to-use-rentafi-lender.md" %}
+[how-to-use-rentafi-lender.md](how-to-use-rentafi-lender.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-use-rilascio-borrower.md" %}

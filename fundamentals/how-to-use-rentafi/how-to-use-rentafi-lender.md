@@ -1,10 +1,10 @@
-# How to Use Rilascio(Lender)
+# How to Use RentaFi(Lender)
 
 １.サービスページから"Lend"を選択します。
 
 ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-07.png)
 
-２.Lendページに遷移するとあなたが所有しているNFTの中で貸出可能あるいは貸出中のNFTが表示されます。貸出可能なNFTの右下には"Lend"と表示され、貸出中のNFTは、"Lended"と表示されます。貸出可能なNFTは、Rilascioとのパートナーを提携しているNFTに限っているのでご留意ください。
+２.Lendページに遷移するとあなたが所有しているNFTの中で貸出可能あるいは貸出中のNFTが表示されます。貸出可能なNFTの右下には"Lend"と表示され、貸出中のNFTは、"Lended"と表示されます。貸出可能なNFTは、RentaFiとのパートナーを提携しているNFTに限っているのでご留意ください。
 
 ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-08.png)
 
