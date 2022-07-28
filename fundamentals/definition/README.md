@@ -6,8 +6,8 @@
 [lender.md](lender.md)
 {% endcontent-ref %}
 
-{% content-ref url="../how-to-use-rilascio/how-to-use-rilascio-borrower.md" %}
-[how-to-use-rilascio-borrower.md](../how-to-use-rilascio/how-to-use-rilascio-borrower.md)
+{% content-ref url="../how-to-use-rentafi/how-to-use-rilascio-borrower.md" %}
+[how-to-use-rilascio-borrower.md](../how-to-use-rentafi/how-to-use-rilascio-borrower.md)
 {% endcontent-ref %}
 
 {% content-ref url="wrappednft.md" %}

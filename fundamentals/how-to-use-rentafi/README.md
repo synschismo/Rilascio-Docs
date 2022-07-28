@@ -1,12 +1,12 @@
-# How to Use Rilascio
+# How to Use RentaFi
 
-Rilascioには貸し手と借り手の二つのロールがあり、それぞれのユーザーに対しての利用方法を説明していきます。まずは、貸し手にも借り手にも必要な操作としてウォレットの接続が必要になるので、その操作方法を説明します。
+RentaFiには貸し手と借り手の二つのロールがあり、それぞれのユーザーに対しての利用方法を説明していきます。まずは、貸し手にも借り手にも必要な操作としてウォレットの接続が必要になるので、その操作方法を説明します。
 
-１.Rilascioのプロダクトページを開きます
+１.RentaFiのプロダクトページを開きます
 
 ![](<../../.gitbook/assets/howToUseRilascio\_加筆修正\_アートボード 1.png>)
 
-２.Rilascio上で取引を行うためにはまず、右上のConnect Walletタブをクリックします
+２.RentaFi上で取引を行うためにはまず、右上のConnect Walletタブをクリックします
 
 ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-02.png)
 
