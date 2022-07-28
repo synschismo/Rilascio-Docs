@@ -24,6 +24,6 @@ Please refer to the following pages for each role.
 [how-to-use-rentafi-lender.md](../how-to-use-rentafi/how-to-use-rentafi-lender.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-use-rilascio-borrower.md" %}
-[how-to-use-rilascio-borrower.md](how-to-use-rilascio-borrower.md)
+{% content-ref url="../how-to-use-rentafi/how-to-use-rentafi-borrower.md" %}
+[how-to-use-rentafi-borrower.md](../how-to-use-rentafi/how-to-use-rentafi-borrower.md)
 {% endcontent-ref %}
