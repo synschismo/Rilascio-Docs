@@ -20,8 +20,8 @@ RentaFi has two roles, lender and borrower, and we will explain how to use the s
 
 Please refer to the following pages for each role.
 
-{% content-ref url="how-to-use-rilascio-lender.md" %}
-[how-to-use-rilascio-lender.md](how-to-use-rilascio-lender.md)
+{% content-ref url="../how-to-use-rentafi/how-to-use-rentafi-lender.md" %}
+[how-to-use-rentafi-lender.md](../how-to-use-rentafi/how-to-use-rentafi-lender.md)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-use-rilascio-borrower.md" %}

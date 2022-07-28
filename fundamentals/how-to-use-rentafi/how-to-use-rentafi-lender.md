@@ -1,10 +1,10 @@
-# How to Use Rilascio(Lender)
+# How to Use RentaFi(Lender)
 
 １.Select "Lend" from the Services page.
 
 ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-07.png)
 
-２.When you move to the Lend page, the NFT you own that are available for lending or are currently lending will be displayed. The NFT that are available for lend are marked with "Lend" in the lower right corner, and the NFT that are currently on loan are marked with "Lended". Please note that only NFT that have partnered with Rilascio are available for lending.
+２.When you move to the Lend page, the NFT you own that are available for lending or are currently lending will be displayed. The NFT that are available for lend are marked with "Lend" in the lower right corner, and the NFT that are currently on loan are marked with "Lended". Please note that only NFT that have partnered with RentaFi are available for lending.
 
 ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-08.png)
 
