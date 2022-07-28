@@ -1,4 +1,4 @@
-# How to Use Rilascio(Borrower)
+# How to Use RentaFi(Borrower)
 
 １.First, find the NFT you want to rent.
 
