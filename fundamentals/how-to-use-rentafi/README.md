@@ -1,12 +1,12 @@
-# How to Use Rilascio
+# How to Use RentaFi
 
-Rilascio has two roles, lender and borrower, and we will explain how to use the system for each user. First, we will explain how to connect the wallet, which is a necessary operation for both lenders and borrowers.
+RentaFi has two roles, lender and borrower, and we will explain how to use the system for each user. First, we will explain how to connect the wallet, which is a necessary operation for both lenders and borrowers.
 
-１.Open the Rilascio product page
+１.Open the RentaFi product page
 
 ![](<../../.gitbook/assets/howToUseRilascio\_加筆修正\_アートボード 1.png>)
 
-２.To make a transaction on Rilascio, click on the Connect Wallet tab in the upper right corner
+２.To make a transaction on RentaFi, click on the Connect Wallet tab in the upper right corner
 
 ![](../../.gitbook/assets/howToUseRilascio\_加筆修正-02.png)
 
