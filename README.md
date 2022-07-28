@@ -1,6 +1,6 @@
 # Introdution to RentaFi
 
-![](.gitbook/assets/synschismo\_graphic\_data.png)
+![](.gitbook/assets/synschismo\_graphic\_data\_changed.png)
 
 ### About RentaFi
 
