@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introdution to Rilascio](README.md)
+* [Introdution to RentaFi](README.md)
 
 ## Product
 
