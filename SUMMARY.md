@@ -4,11 +4,11 @@
 
 ## Product
 
-* [Rilascio-testnet](https://testnet.rilasc.io)
+* [RentaFi-testnet](https://testnet.rilasc.io)
 
 ## Fundamentals
 
-* [Why Use Rilascio](fundamentals/why-use-rilascio.md)
+* [Why Use RentaFi](fundamentals/why-use-rentafi.md)
 * [How to Use Rilascio](fundamentals/how-to-use-rilascio/README.md)
   * [How to Use Rilascio(Lender)](fundamentals/how-to-use-rilascio/how-to-use-rilascio-lender.md)
   * [How to Use Rilascio(Borrower)](fundamentals/how-to-use-rilascio/how-to-use-rilascio-borrower.md)
