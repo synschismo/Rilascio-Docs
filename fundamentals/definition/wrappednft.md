@@ -4,7 +4,7 @@ WrappedNFTは、NFTをレンタルした際に、借り手側に発行されま�
 
 ロックしたNFTの独自のユーティリティ（NFTのオーナーだけがアクセス可能なサービスやNFTのキャラクター・着せ替えアセットなど）を使用することができます（レンタルできるNFTコレクションの種類やユーティリティの範囲は[Partnership](../partnership.md)ページよりご参照ください）。
 
-Rilascioでレンタルが可能なNFTは以下のページをご参照ください。
+RentaFiでレンタルが可能なNFTは以下のページをご参照ください。
 
 {% content-ref url="../partnership.md" %}
 [partnership.md](../partnership.md)
