@@ -1,14 +1,12 @@
 # Introdution to RentaFi
 
-![](.gitbook/assets/synschismo\_graphic\_data.png)
+![](.gitbook/assets/synschismo\_graphic\_data\_changed.png)
 
 ### RentaFiの概要
 
 RentaFiは、NFTの交換価値（市場に流通することで発生する価値）と使用価値（NFTを利用することで発生する価値）の両立を可能にする無担保型のレンタルプロトコルおよびプラットフォームです。本プロトコルを製品に統合することで、ウォレットで機能不全を起こしているNFTの資産効率と機能性を最大限に高めることができます。オンチェーンでレンタルできるようになります。
 
 現在、Rinkbyでサポートされており、レンタルで利用されるNFTは、PFPやコミュニティへの会員権、サービスへのアクセス権、ゲームアイテムなどのユースケースへの展開を目指しています。
-
-![](.gitbook/assets/RIlascio\_scheme.png)
 
 ### NFTの課題とRentaFiのソリューション
 
