@@ -36,9 +36,9 @@ Among the rental platforms, RentaFi shows features that make it a valuable NFT r
 
 
 
-*   **Lenders can operate outside services with substantial ownership of the original NFT**
+*   **Lenders can manage outside services with substantial ownership of the original NFT**
 
-    When a lender deposits an NFT into the contract, an OwnershipNFT is minted; the owner of the OwnershipNFT can receive the original NFT by burning the NFT after the lock period has expired. In other words, this OwnershipNFT indicates ownership of the original NFT, allowing it to be operated by an external service. This effectively separates Use Value and Exchange Value.
+    When a lender deposits an NFT into the contract, an OwnershipNFT is minted; the owner of the OwnershipNFT can receive the original NFT by burning the NFT after the lock period has expired. In other words, this OwnershipNFT indicates ownership of the original NFT, allowing it to be **manage**d by an external service. This effectively separates Use Value and Exchange Value.
 
 {% content-ref url="../use-cases/ownershipnft.md" %}
 [ownershipnft.md](../use-cases/ownershipnft.md)
@@ -46,7 +46,7 @@ Among the rental platforms, RentaFi shows features that make it a valuable NFT r
 
 ****
 
-*   **Lenders can operate the real future value of the original NFT with outside services**
+*   **Lenders can manage the real future value of the original NFT with outside services**
 
     This is the most important feature of RentaFi. As mentioned earlier, an OwnershipNFT is minted when the lender locks an NFT into the contract. In addition, another type of NFT is minted, the YieldNFT, which is used to earn back the rental proceeds; the OwnershipNFT represents the current value of the NFT, whereas the YieldNFT represents the future value of the NFT that was locked. This is because the increase in revenue earned during the lock period indicates that more people are continuously looking for that NFT during the lock period. The purpose of having a lock period in our protocol is to achieve this separation of value. The lock period makes it possible to calculate the future value of the NFT in question and enhances composability with external protocols.
 
