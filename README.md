@@ -8,7 +8,7 @@ RentaFi is a non-collateral NFT rental protocol and platform that enables to man
 
 Currently supported by Rinkby, we are looking to expand into use cases of rental NFT such as PFP, community memberships, access to services, and game items.
 
-![](.gitbook/assets/RIlascio\_scheme.png)
+![](.gitbook/assets/RentaFi\_scheme.png)
 
 ### NFT Issue and RentaFi's Solution
 

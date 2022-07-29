@@ -4,19 +4,19 @@ RentaFi has two roles, lender and borrower, and we will explain how to use the s
 
 １.Open the RentaFi product page
 
-![](<../../.gitbook/assets/howToUseRilascio\_加筆修正\_アートボード 1.png>)
+![](<../../.gitbook/assets/howToUseRentaFi\_加筆修正\_アートボード 1.png>)
 
 ２.To make a transaction on RentaFi, click on the Connect Wallet tab in the upper right corner
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-02.png)
+![](../../.gitbook/assets/howToUseRentaFi\_加筆修正-02.png)
 
 ３.Select the wallet you are using
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-03.png)
+![](../../.gitbook/assets/howToUseRentaFi\_加筆修正-03.png)
 
 ４.If you see your wallet address in the upper right corner, you are done!
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-04.png)
+![](../../.gitbook/assets/howToUseRentaFi\_加筆修正-04.png)
 
 Please refer to the following pages for each role.
 
@@ -24,6 +24,6 @@ Please refer to the following pages for each role.
 [how-to-use-rentafi-lender.md](../how-to-use-rentafi/how-to-use-rentafi-lender.md)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-use-rilascio-borrower.md" %}
-[how-to-use-rilascio-borrower.md](how-to-use-rilascio-borrower.md)
+{% content-ref url="how-to-use-RentaFi-borrower.md" %}
+[how-to-use-RentaFi-borrower.md](how-to-use-RentaFi-borrower.md)
 {% endcontent-ref %}
