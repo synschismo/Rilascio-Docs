@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introdution to RentaFi](README.md)
-* [Introdution to RentaFi](<README (1).md>)
 
 ## Product
 
