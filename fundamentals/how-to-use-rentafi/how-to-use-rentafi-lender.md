@@ -2,11 +2,11 @@
 
 １.サービスページから"Lend"を選択します。
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-07.png)
+![](../../.gitbook/assets/RentaFi\_lender-07.png)
 
 ２.Lendページに遷移するとあなたが所有しているNFTの中で貸出可能あるいは貸出中のNFTが表示されます。貸出可能なNFTの右下には"Lend"と表示され、貸出中のNFTは、"Lended"と表示されます。貸出可能なNFTは、RentaFiとのパートナーを提携しているNFTに限っているのでご留意ください。
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-08.png)
+![](../../.gitbook/assets/RentaFi\_lender-08.png)
 
 ３."Max Rental Duration"と"Daily Rental Price"と"Lock Duration"を設定します。
 
@@ -16,7 +16,7 @@
 
 > Lock Duration：レンタルが開始されてからNFTがロックされる期間
 
-![](../../.gitbook/assets/howToUseRilascio\(lender\).png)
+![](../../.gitbook/assets/RentaFi\_lender-10.png)
 
 ４.全ての設定を終えたらLock your NFTをクリックすると、OwnershipNFTとYieldNFTがミントされます。レンタル成立後、Lock Durationで設定した期間、NFTを引き出せなくなります。
 
@@ -27,11 +27,11 @@
 > YieldNFT：レンタルにより得られた収益の引き換えに必要なNFT\
 > &#x20;[YieldNFTに関する詳細ページ](https://www.notion.so/GitBookDocument-9c75d920a3be4379aae86aa37af2347a)
 
-![](<../../.gitbook/assets/スクリーンショット 2022-06-30 18.22.03.png>)
+![](../../.gitbook/assets/RentaFi\_lender-11.png)
 
 5.レンタルが実行されると、ダッシュボードにロックしたNFTを確認することができます。最初のレンタルが成立するまでは、ダッシュボード内の"Cancel"をクリックすることでOwnershipNFTとYieldNFTをプロトコルに返却し、ロックしたNFTを回収することができます。
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-09.png)
+![](../../.gitbook/assets/RentaFi\_lender-09.png)
 
 ６.ロック期間を終了すると、"Withdraw"をクリックすることで、OwnershipNFTを引き換えにロックされたNFTを取り戻すことができ、"Claim"をクリックすることで、yieldNFTを引き換えにレンタルで得られた収益を引き出すことができます。
 

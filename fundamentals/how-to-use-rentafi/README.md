@@ -4,19 +4,19 @@ RentaFiには貸し手と借り手の二つのロールがあり、それぞれ�
 
 １.RentaFiのプロダクトページを開きます
 
-![](<../../.gitbook/assets/howToUseRilascio\_加筆修正\_アートボード 1.png>)
+![](<../../.gitbook/assets/RentaFi\_all\_アートボード 1.png>)
 
 ２.RentaFi上で取引を行うためにはまず、右上のConnect Walletタブをクリックします
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-02.png)
+![](../../.gitbook/assets/RentaFi\_all-02.png)
 
 ３.あなたが利用しているウォレットを選択します
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-03.png)
+![](../../.gitbook/assets/RentaFi\_all-03.png)
 
 ４.右上にあなたのウォレットアドレスが表示されていれば完了です
 
-![](../../.gitbook/assets/howToUseRilascio\_加筆修正-04.png)
+![](../../.gitbook/assets/RentaFi\_all-04.png)
 
 各ロールは、以下のページをご参照ください。
 
