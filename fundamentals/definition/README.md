@@ -6,8 +6,8 @@
 [lender.md](lender.md)
 {% endcontent-ref %}
 
-{% content-ref url="../how-to-use-rentafi/how-to-use-rentafi-borrower.md" %}
-[how-to-use-rentafi-borrower.md](../how-to-use-rentafi/how-to-use-rentafi-borrower.md)
+{% content-ref url="borrower.md" %}
+[borrower.md](borrower.md)
 {% endcontent-ref %}
 
 {% content-ref url="wrappednft.md" %}
